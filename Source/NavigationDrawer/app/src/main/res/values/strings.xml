@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open">Opening Drawer</string>
+    <string name="close">Closing Drawer</string>
+    <string-array name="items">
+        <item>Home</item>
+        <item>Account</item>
+        <item>Login</item>
+        <item>Share</item>
+    </string-array>
+</resources>
